@@ -1,0 +1,49 @@
+.buttons {
+	margin-top: 20px;
+	margin-left: 20px;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.button-red,
+.button-yellow,
+.button-all {
+	padding: 10px 20px;
+	border-radius: 4px;
+	border: none;
+	transition: background-color 0.3s ease;
+	color: white;
+}
+
+.button-red {
+	background-color: red;
+}
+
+.button-red:hover {
+	background-color: rgb(228, 108, 108);
+}
+
+.button-yellow {
+	background-color: yellow;
+	color: black;
+}
+
+.button-yellow:hover {
+	background-color: rgb(221, 221, 66);
+}
+
+.button-all {
+	background-color: #6c757d;
+}
+
+.wantedBadge {
+	font-size: 1.2rem;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: 20px;
+}
+
+.paginate {
+	margin-top: 20px;
+	margin-bottom: 150px;
+}

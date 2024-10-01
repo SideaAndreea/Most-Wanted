@@ -1,3 +1,7 @@
+#MostWanted
+
+React application that provides a way to view the most wanted Interpol persons list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
